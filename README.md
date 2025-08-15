@@ -57,7 +57,7 @@ To replicate this analysis on your own machine, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/AgnivaG26/AJR-replication.git](https://github.com/AgnivaG26/AJR-replication.git)
+    git clone https://github.com/AgnivaG26/AJR-replication.git
     cd AgnivaG26
     ```
 
